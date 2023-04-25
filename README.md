@@ -1,6 +1,6 @@
 ### Olá! Eu sou RoniWellinton 👋
 
-- 🔭 Hoje eu trabalho como fullstack,e tambem com analise de dados com python e BI
+- 🔭 Hoje eu  estudo para me tornar um desenvolvedor FullStack
 - 🌱 Estudando desenvolvimento Mobile com Flutter e React-Native...
 
 <div style="display: inline_block"><br>
