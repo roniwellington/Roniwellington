@@ -1,7 +1,7 @@
 ### Olá! Eu sou RoniWellinton 👋
 
-- 🔭 Hoje eu  estudo para me tornar um desenvolvedor FullStack
-- 🌱 Estudando desenvolvimento Mobile com Flutter e React-Native...
+- 🔭 Hoje eu  estudo para me tornar um desenvolvedor Back-end
+- 🌱 Estudando desenvolvimento Back-end com java/Springframework...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Roni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
