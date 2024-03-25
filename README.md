@@ -1,6 +1,7 @@
 ### Olá! Eu sou RoniWellinton 👋
 
-- 🔭 Hoje eu  estudo para me tornar um desenvolvedor Back-end
+- 🔭 Hoje eu  estudo ciência de dados e trabalho na Mineradora Vale como analista de dados
+- 🔭 Também estudo para me tornar um desenvolvedor Back-end
 - 🌱 Estudando desenvolvimento Back-end com java/Springframework...
 
 <div style="display: inline_block"><br>
