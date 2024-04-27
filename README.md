@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu  estudo engenharia de software e ciência de dados e estou estágiando na Mineradora Vale como analista de dados
 - 🔭 Nas horas vagas estudo  java/Springframework
-- 🌱 Outros meus são Astronomia e Biologia
+- 🌱 Outros hobbys meus são Astronomia e Biologia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Roni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
