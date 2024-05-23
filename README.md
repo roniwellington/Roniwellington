@@ -1,7 +1,7 @@
 ### Olá! Eu sou RoniWellinton 👋
 
-- 🔭 Hoje eu  estudo engenharia de software e ciência de dados e estou estágiando na Mineradora Vale como analista de dados
-- 🔭 Nas horas vagas estudo  java/Springframework
+- 🔭 Hoje eu  estudo engenharia de software e Analise e Desenvolvimento de Sistemas e estou estágiando na Mineradora Vale
+- 🔭 Nas horas vagas estudo  Python/Django
 - 🌱 Outros hobbys meus são Astronomia e Biologia
 
 <div style="display: inline_block"><br>
