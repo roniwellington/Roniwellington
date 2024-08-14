@@ -14,7 +14,7 @@
   <img align="center" alt="Roni-django" height="30" width="40" src="https://datascientest.com/en/files/2023/05/django1.jpg">
    <img align="center" alt="Roni-Git" height="30" width="40" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4">
    <img align="center" alt="Roni-Node" height="30" width="40" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/12/node-js-interview-questions-logo-2-266x300.png">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://logospng.org/download/sqlite/sqlite-2048.png"
+  <img align="center" alt="SQLite" height="30" width="40" src="https://logospng.org/download/sqlite/sqlite-2048.png">
   <img align="center" alt="Roni-BI" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png">
   <img align="right" alt="Roni-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/94912867?s=400&u=e0b4009a5f7f3d7445c7a541ac405af7ce44732c&v=4">
 </div>
