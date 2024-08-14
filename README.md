@@ -11,6 +11,7 @@
   <img align="center" alt="Roni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Roni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Roni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Roni-Python" height="30" width="40" src="https://datascientest.com/en/files/2023/05/django1.jpg">
    <img align="center" alt="Roni-Git" height="30" width="40" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4">
    <img align="center" alt="Roni-Node" height="30" width="40" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/12/node-js-interview-questions-logo-2-266x300.png">
   <img align="center" alt="Roni-BI" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png">
