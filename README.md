@@ -1,7 +1,7 @@
 ### Olá! Eu sou RoniWellinton 👋
 
 - 🔭 Hoje eu  estudo engenharia de software e Analise e Desenvolvimento de Sistemas e estou estágiando na Mineradora Vale
-- 🔭 Nas horas vagas estudo  Python/Django
+- 🔭 Minha STACK principal é  Python/Django e react e SQLite e Mysql
 - 🌱 Outros hobbys meus são Astronomia e Biologia
 
 <div style="display: inline_block"><br>
