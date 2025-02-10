@@ -1,8 +1,8 @@
 ### Olá! Eu sou RoniWellinton 👋
 
 - 🔭 Hoje eu  estudo engenharia de software e Analise e Desenvolvimento de Sistemas e estou estágiando na Mineradora Vale
-- 🔭 Minha STACK principal é  Java/Spring boot e tenho uma base na triade do Front-end(HTML,CSS, JAVASCRIPT) e no react e banco de dados PostgreSQL e Mysql
-- 🌱 Outras áreas de estudos Ciência de dados (Python(pandas, seaborn, numpy e muitas outras, e entendo bastante de Power BI)
+- 🔭 Minha STACK principal é  Python/Django e tenho uma base na triade do Front-end(HTML,CSS, JAVASCRIPT) e no react e banco de dados PostgreSQL, Mysql e SQLite
+- 🌱 Outras áreas de estudos Ciência de dados (Python(pandas, seaborn, numpy e muitas outras, e entendo bastante de Power BI, Looker Studio e Tableua)
 - 🌱 Outros hobbys meus são Astronomia e Biologia
 
 <div style="display: inline_block"><br>
