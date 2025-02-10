@@ -6,8 +6,6 @@
 - 🌱 Outros hobbys meus são Astronomia e Biologia
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Roni-java" height="30" width="40" src="https://www.infoescola.com/wp-content/uploads/2011/03/java.jpg">
-  <img align="center" alt="Roni-java" height="30" width="40" src="https://media.licdn.com/dms/image/v2/D4D12AQFscCu_T0xB3A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1688794846091?e=2147483647&v=beta&t=UAzceqpsA588kvnVbHm01O35qL8lnK6eYus5DTDKR8M">
   <img align="center" alt="Roni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Roni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Roni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
