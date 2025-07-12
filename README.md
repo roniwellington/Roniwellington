@@ -7,6 +7,7 @@
 - 🌱 Outros hobbys meus são Astronomia e Biologia
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Roni-Js" height="30" width="40" src="https://hermes.dio.me/articles/cover/7b89fda2-4af3-4ae0-98bc-ad2b65854909.png">
   <img align="center" alt="Roni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Roni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Roni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
