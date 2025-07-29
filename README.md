@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor Back-end & Cientista de Dados em formação <br>
-  🚀 Explorando o universo da tecnologia com Python, Java, Kotlin e muito mais!
+  🚀 Explorando o universo da tecnologia com Python, Java,  e muito mais!
 </p>
 
 ---
