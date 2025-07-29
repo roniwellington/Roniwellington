@@ -16,7 +16,8 @@
 
 ## 🛠️ Stack Principal
 
-- **Linguagens:** Python, Java, Kotlin, JavaScript (React)
+- **Linguagem Principal:** Python
+- **Outras Linguagens:**Java, Kotlin, JavaScript (React)
 - **Back-end:** Django, Spring Boot, Flask
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite, MongoDB
 - **Ferramentas:** Git, GitHub, Power BI, Excel Avançado (VBA, Power Pivot, DAX)
