@@ -1,71 +1,78 @@
 <h1 align="center">👋 Olá, eu sou Roni Wellington!</h1>
 
 <p align="center">
-  💻 Desenvolvedor Back-end & Cientista de Dados em formação <br>
-  🚀 Explorando o universo da tecnologia com Python, Java,  e muito mais!
+  📊 Futuro Cientista de Dados | 💻 Desenvolvedor Back-end em formação<br>
+  🚀 Explorando o universo dos dados e da tecnologia com Python, Java e mais!
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-🎓 Atualmente sou estudante de **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas**, além de estagiar na **Vale**, uma das maiores mineradoras do mundo.  
-💡 Sou movido por **curiosidade**, **aprendizado contínuo** e o desejo de **resolver problemas reais com tecnologia**.
+🎓 Estudante de **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas**, estagiando na **Vale**, uma das maiores mineradoras do mundo.  
+🧪 Apaixonado por **Ciência de Dados**, **automação** e **tecnologia aplicada à resolução de problemas reais**.  
+📈 Iniciei minha jornada com projetos simples, mas estou evoluindo gradualmente com foco em **projetos sólidos e impactantes na área de dados**.
+
+---
+
+## 💡 Objetivo profissional
+
+Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
+
+- Engenharia de Dados
+- Análise de Dados
+- Machine Learning & IA
+- Visualização e Storytelling com Dados
 
 ---
 
 ## 🛠️ Stack Principal
 
-- **Linguagem Principal:** Python
-- **Outras Linguagens:**Java,JavaScript (React)
-- **Back-end:** Django, Spring Boot, Flask
+- **Linguagem Base:** Python
+- **Outras Linguagens:** Java, JavaScript (React)
+- **Back-end:** Django, Flask, Spring Boot
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite, MongoDB
-- **Ferramentas:** Git, GitHub, Power BI, Excel Avançado (VBA, Power Pivot, DAX)
-- **Cloud e APIs:** AWS (S3, Deploy), Integração com ChatGPT e Gemini (OpenAI, Google)
-- **Testes:** Pytest, Test-Driven Development, JUnit
+- **Ferramentas de Dados e BI:** pandas, NumPy, Seaborn, Power BI, Excel Avançado (VBA, Power Pivot, DAX)
+- **DevOps e Cloud:** AWS (S3, Deploy), Git & GitHub
+- **Integrações com LLMs:** OpenAI (ChatGPT), Gemini
+- **Testes:** Pytest, TDD, JUnit
 
 ---
 
-## 📚 Conhecimentos que venho desenvolvendo
+## 📚 Áreas que venho me aprofundando
 
-### 🐍 Python & Django
-- Criação de APIs REST com Django REST Framework
-- Dashboards com Streamlit
-- Testes automatizados com Pytest
-- Autenticação com OAuth2
-- Integrações com LLMs como ChatGPT e Gemini
+### 🧬 Ciência de Dados & Python
+- Manipulação e análise de dados com **pandas**, **NumPy** e **matplotlib**
+- Dashboards com **Streamlit**
+- Testes automatizados com **Pytest**
+- Automação com **Excel Avançado** (VBA)
+- Integrações com **modelos de linguagem (LLMs)**
 
-### ☕ Java & Spring Boot
-- Criação de APIs seguras e documentadas
-- Aplicação de boas práticas com Spring Security e Flyway
-- Integração com banco de dados via JPA
-- Testes com JUnit, SOLID e deploy com variáveis de ambiente
+### 🧱 Back-end com Java e Django
+- APIs REST seguras com **Spring Boot** e **Django REST Framework**
+- Autenticação com **OAuth2**, boas práticas com **SOLID**
+- Deploy com **variáveis de ambiente**
+- Testes com **JUnit** e **Pytest**
 
-### 📊 Dados e BI
-- Análise com pandas, seaborn, numpy
-- Dashboards no Power BI
-- Automação com Excel Avançado (VBA)
-
----
-
-## 🌍 Outras áreas que curto aprender
-
-🔭 Astronomia e Biologia me fascinam.  
-🎨 Também gosto de construir projetos interativos e visualmente organizados, sempre buscando unir tecnologia com clareza e propósito.
+### 📊 Visualização de Dados e BI
+- Dashboards interativos no **Power BI**
+- Criação de relatórios com storytelling orientado a dados
+- Automação de relatórios em Excel com VBA e Power Query
 
 ---
 
-## 🚀 Alguns dos meus repositórios em destaque
+## 🌟 Repositórios em destaque
 
-- [`api-rest-java`](https://github.com/RoniWellinton/api-rest-java): API REST com Java e Spring Boot, autenticação, testes e documentação.
-- [`projeto-space`](https://github.com/RoniWellinton/projeto-space): App web com Django, autenticação, admin, persistência com AWS S3.
-- [`python_gemini`](https://github.com/RoniWellinton/python_gemini): Integração com a API do Gemini para automações com IA.
-- [`java-gpt`](https://github.com/RoniWellinton/java-gpt): Conexão entre Java e a API da OpenAI (ChatGPT).
-- [`python-testes-unitarios`](https://github.com/RoniWellinton/python-testes-unitarios): Testes com Pytest e TDD.
+- [`api-rest-java`](https://github.com/RoniWellinton/api-rest-java): API com Java Spring Boot, autenticação e testes.
+- [`projeto-space`](https://github.com/RoniWellinton/projeto-space): App com Django, autenticação e upload para AWS S3.
+- [`python_gemini`](https://github.com/RoniWellinton/python_gemini): Automação com IA via API do Gemini.
+- [`java-gpt`](https://github.com/RoniWellinton/java-gpt): Comunicação entre Java e a API da OpenAI.
+- [`python-testes-unitarios`](https://github.com/RoniWellinton/python-testes-unitarios): Prática com Pytest e TDD.
+- [`estudo-dataScience`](https://github.com/RoniWellinton/estudo-dataScience): Repositório que registra minha evolução em Ciência de Dados com Python.
 
 ---
 
-## 🧰 Tecnologias que utilizo
+## ⚙️ Tecnologias que utilizo
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -80,6 +87,16 @@
   <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Power BI" height="30" src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg">
 </div>
+
+---
+
+## 🌍 Outras paixões e interesses
+
+Além da programação, sou apaixonado por:
+
+- 🌌 **Astronomia** e **Biologia**
+- ✨ Projetos com visual criativo e propósito
+- ✈️ Explorar novas tecnologias, idiomas e culturas
 
 ---
 
@@ -103,5 +120,5 @@
 ---
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos, clonar, contribuir ou trocar uma ideia!
+  ⭐ Obrigado por visitar meu perfil! Explore meus projetos, acompanhe minha evolução e sinta-se à vontade para contribuir ou trocar ideias!
 </p>
