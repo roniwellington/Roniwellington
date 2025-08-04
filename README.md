@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Roni Wellington!</h1>
 
 <p align="center">
-  📊 Futuro Cientista de Dados | 💻 Desenvolvedor Back-end em formação<br>
+  📊 Futuro Cientista de Dados | 💻Com entendimento em Back-end <br>
   🚀 Explorando o universo dos dados e da tecnologia com Python, Java e mais!
 </p>
 
