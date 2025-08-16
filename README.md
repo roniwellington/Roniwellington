@@ -30,7 +30,7 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 
 - **Linguagem Base:** Python
 - **Outras Linguagens:** Java, JavaScript (React)
-- **Back-end:** Django, Flask, Spring Boot
+- **Back-end:** Django, Flask
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite, MongoDB
 - **Ferramentas de Dados e BI:** pandas, NumPy, Seaborn, Power BI, Excel Avançado (VBA, Power Pivot, DAX)
 - **DevOps e Cloud:** AWS (S3, Deploy), Git & GitHub
@@ -49,7 +49,7 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 - Integrações com **modelos de linguagem (LLMs)**
 
 ### 🧱 Back-end com Java e Django
-- APIs REST seguras com **Spring Boot** e **Django REST Framework**
+- APIs REST seguras com  **Django REST Framework**
 - Autenticação com **OAuth2**, boas práticas com **SOLID**
 - Deploy com **variáveis de ambiente**
 - Testes com **JUnit** e **Pytest**
