@@ -96,7 +96,7 @@ Além da programação, sou apaixonado por:
 
 - 🌌 **Astronomia** e **Biologia**
 - ✨ Projetos com visual criativo e propósito
-- ✈️ Explorar novas tecnologias, idiomas e culturas
+- ✈️ Explorar novas tecnologias, estudando inglês e culturas antigas
 
 ---
 
