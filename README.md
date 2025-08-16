@@ -29,7 +29,7 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 ## 🛠️ Stack Principal
 
 - **Linguagem Base:** Python
-- **Outras Linguagens:** Java, JavaScript (React)
+- **Outras Linguagens:** Java, JavaScript
 - **Back-end:** Django, Flask
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite, MongoDB
 - **Ferramentas de Dados e BI:** pandas, NumPy, Seaborn, Power BI, Excel Avançado (VBA, Power Pivot, DAX)
