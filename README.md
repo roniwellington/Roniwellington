@@ -57,7 +57,7 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 - Deploy com **variáveis de ambiente**
 - Testes com **JUnit** e **Pytest**
 - Outras Linguagens estudadas na faculdade:** Java, JavaScript**
-- Back-end:** Django, Flask**
+- Back-end: ** Django, Flask**
 
 ---
 
