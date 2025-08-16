@@ -18,7 +18,6 @@
 ## 💡 Objetivo profissional
 
 Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
-
 - Engenharia de Dados
 - Análise de Dados
 - Machine Learning & IA
@@ -29,8 +28,6 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 ## 🛠️ Stack Principal
 
 - **Linguagem Base:** Python
-- **Outras Linguagens estudadas na faculdade:** Java, JavaScript
-- **Back-end:** Django, Flask
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite, MongoDB
 - **Ferramentas de Dados e BI:** pandas, NumPy, Seaborn, Power BI, Excel Avançado (VBA, Power Pivot, DAX)
 - **DevOps e Cloud:** AWS (S3, Deploy), Git & GitHub
@@ -48,17 +45,19 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 - Automação com **Excel Avançado** (VBA)
 - Integrações com **modelos de linguagem (LLMs)**
 
-### 🧱 Back-end com Python Django
-- APIs REST seguras com  **Django REST Framework**
-- Autenticação com **OAuth2**, boas práticas com **SOLID**
-- Deploy com **variáveis de ambiente**
-- Testes com **JUnit** e **Pytest**
-
 ### 📊 Visualização de Dados e BI
 - Dashboards interativos no **Power BI**
 - Criação de relatórios com storytelling orientado a dados
 - Automação de relatórios em Excel com VBA e Power Query
 - Automação com Agents de A.I, Power Automate, automation anywhere
+
+- ### 🧱 Back-end com Python Django
+- APIs REST seguras com  **Django REST Framework**
+- Autenticação com **OAuth2**, boas práticas com **SOLID**
+- Deploy com **variáveis de ambiente**
+- Testes com **JUnit** e **Pytest**
+- Outras Linguagens estudadas na faculdade:** Java, JavaScript**
+- Back-end:** Django, Flask**
 
 ---
 
