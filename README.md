@@ -1,15 +1,15 @@
 <h1 align="center">👋 Olá, eu sou Roni Wellington!</h1>
 
 <p align="center">
-  📊 Futuro Cientista de Dados | 💻Com entendimento em Back-end <br>
-  🚀 Explorando o universo dos dados e da tecnologia com Python, Java e mais!
+  📊 Analista de dados na Vale | Futuro Cientista de Dados | 💻Com entendimento em Back-end <br>
+  🚀 Explorando o universo dos dados e da tecnologia com Python, R, SQL, Power BI, Java e mais!
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-🎓 Estudante de **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas**, estagiando na **Vale**, uma das maiores mineradoras do mundo.  
+🎓 Estudante de **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas**, Assistente na **Vale**, uma das maiores mineradoras do mundo.  
 🧪 Apaixonado por **Ciência de Dados**, **automação** e **tecnologia aplicada à resolução de problemas reais**.  
 📈 Iniciei minha jornada com projetos simples, mas estou evoluindo gradualmente com foco em **projetos sólidos e impactantes na área de dados**.
 
@@ -29,7 +29,7 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 
 - **Linguagem Base:** Python
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite, MongoDB
-- **Ferramentas de Dados e BI:** pandas, NumPy, Seaborn, Power BI, Excel Avançado (VBA, Power Pivot, DAX)
+- **Ferramentas de Dados e BI:** pandas, NumPy, Seaborn, Power BI, Excel Avançado (VBA, Power Pivot, DAX) e google sheets
 - **DevOps e Cloud:** AWS (S3, Deploy), Git & GitHub
 - **Integrações com LLMs:** OpenAI (ChatGPT), Gemini
 - **Testes:** Pytest, TDD, JUnit
@@ -50,6 +50,7 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 - Criação de relatórios com storytelling orientado a dados
 - Automação de relatórios em Excel com VBA e Power Query
 - Automação com Agents de A.I, Power Automate, automation anywhere
+- SQL criar, importar tabelas, consultas e comandos, técnicas como filtragem, agrupamento, funções de agregação, combinações de múltiplas consultas, união de dados de diferentes tabelas e outros
 
 - ### 🧱 Back-end com Python Django
 - APIs REST seguras com  **Django REST Framework**
