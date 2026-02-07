@@ -52,13 +52,15 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 - Automação com Agents de A.I, Power Automate, automation anywhere
 - SQL criar, importar tabelas, consultas e comandos, técnicas como filtragem, agrupamento, funções de agregação, combinações de múltiplas consultas, união de dados de diferentes tabelas e outros
 
-- ### 🧱 Back-end com Python Django
-- APIs REST seguras com  **Django REST Framework**
-- Autenticação com **OAuth2**, boas práticas com **SOLID**
-- Deploy com **variáveis de ambiente**
-- Testes com **JUnit** e **Pytest**
-- Outras Linguagens estudadas na faculdade:** Java, JavaScript**
-- Back-end: ** Django, Flask**
+- ### 🧱 Back-end com Node.js
+- APIs REST seguras com **Node.js**, **Express** e **NestJS**
+- Desenvolvimento com **TypeScript** e **JavaScript**
+- Autenticação com **JWT** e **OAuth2**, seguindo boas práticas de **SOLID**
+- Gerenciamento de configuração e deploy com **variáveis de ambiente**
+- Testes automatizados com **Jest** e **Supertest**
+- Outras linguagens estudadas na faculdade: **Java**
+- Back-end: **Node.js (Express, NestJS)**
+
 
 ---
 
