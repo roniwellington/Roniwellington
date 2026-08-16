@@ -109,11 +109,13 @@ Entre meus projetos e estudos, venho trabalhando com:
 
 ## 🌍 Outras paixões e interesses
 
-Além da programação, sou apaixonado por:
+Além da tecnologia e da Ciência de Dados, também tenho interesse por:
 
-- 🌌 **Astronomia** e **Biologia**
-- ✨ Projetos com visual criativo e propósito
-- ✈️ Explorar novas tecnologias, estudando inglês e culturas antigas
+* 🌌 **Astronomia e Biologia** — curiosidade constante sobre o universo e a vida.
+* 🎮 **Games** — meu principal hobby nos momentos de lazer.
+* 🏍️ **Viagens de moto** — gosto de conhecer novos lugares e explorar diferentes paisagens.
+* 🚀 **Tecnologia e inovação** — sempre buscando aprender sobre novas ferramentas, ideias e possibilidades.
+
 
 ---
 
