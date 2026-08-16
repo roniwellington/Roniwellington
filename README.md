@@ -66,19 +66,40 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 
 ## ⚙️ Tecnologias que utilizo
 
+## ⚙️ Tecnologias que utilizo
+
+### 🐍 Ciência de Dados & Machine Learning
+
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" src="https://cdn.worldvectorlogo.com/logos/django.svg">
-  <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Pandas" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="NumPy" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Jupyter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Scikit-learn" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
+</div>
+
+### 🏗️ Engenharia de Dados
+
+<div style="display: inline_block">
+  <img align="center" alt="Apache Spark" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
+  <img align="center" alt="Apache Airflow" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg">
   <img align="center" alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="DuckDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duckdb/duckdb-original.svg">
+</div>
+
+### 📊 Analytics & Business Intelligence
+
+<div style="display: inline_block">
   <img align="center" alt="Power BI" height="30" src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg">
 </div>
+
+### ☁️ Cloud & Versionamento
+
+<div style="display: inline_block">
+  <img align="center" alt="AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
+
 
 ---
 
