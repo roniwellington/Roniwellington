@@ -63,9 +63,6 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 - [`estudo-dataScience`](https://github.com/RoniWellinton/estudo-dataScience): Repositório que registra minha evolução em Ciência de Dados com Python.
 
 ---
-
-## ⚙️ Tecnologias que utilizo
-
 ## ⚙️ Tecnologias que utilizo
 
 ### 🐍 Ciência de Dados & Machine Learning
