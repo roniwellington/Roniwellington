@@ -51,17 +51,6 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 - Automação de relatórios em Excel com VBA e Power Query
 - Automação com Agents de A.I, Power Automate, automation anywhere
 - SQL criar, importar tabelas, consultas e comandos, técnicas como filtragem, agrupamento, funções de agregação, combinações de múltiplas consultas, união de dados de diferentes tabelas e outros
-
-- ### 🧱 Back-end com Node.js
-- APIs REST seguras com **Node.js**, **Express** e **NestJS**
-- Desenvolvimento com **TypeScript** e **JavaScript**
-- Autenticação com **JWT** e **OAuth2**, seguindo boas práticas de **SOLID**
-- Gerenciamento de configuração e deploy com **variáveis de ambiente**
-- Testes automatizados com **Jest** e **Supertest**
-- Outras linguagens estudadas na faculdade: **Java**
-- Back-end: **Node.js (Express, NestJS)**
-
-
 ---
 
 ## 🌟 Repositórios em destaque
