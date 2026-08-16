@@ -1,62 +1,87 @@
 <h1 align="center">👋 Olá, eu sou Roni Wellington!</h1>
 
 <p align="center">
-  📊 Analista de dados na Vale | Futuro Cientista de Dados | 💻Com entendimento em Back-end <br>
-  🚀 Explorando o universo dos dados e da tecnologia com Python, SQL, Power BI, Java e mais!
+  📊 <strong>Analista de Dados na Vale</strong> | 🔬 Foco em <strong>Ciência de Dados & Engenharia de Dados</strong><br>
+  🐍 Python | SQL | Power BI | Machine Learning | Data Engineering
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-🎓 Estudante de **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas**, Assistente na **Vale**, uma das maiores mineradoras do mundo.  
-🧪 Apaixonado por **Ciência de Dados**, **automação** e **tecnologia aplicada à resolução de problemas reais**.  
-📈 Iniciei minha jornada com projetos simples, mas estou evoluindo gradualmente com foco em **projetos sólidos e impactantes na área de dados**.
+🎓 Estudante de **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas**, atuando como Assistente na **Vale**, uma das maiores empresas de mineração do mundo.
+
+🧪 Tenho interesse em **Ciência de Dados, Engenharia de Dados, Inteligência Artificial, automação e tecnologia aplicada à resolução de problemas reais**.
+
+📊 Minha experiência envolve **análise de dados, construção de indicadores, automação de processos, desenvolvimento de dashboards e transformação de dados em informações para apoiar decisões**.
+
+💻 Também possuo uma base em **Engenharia de Software e desenvolvimento de aplicações**, com conhecimentos em backend, APIs, bancos de dados, testes e integração de sistemas — conhecimentos que busco aplicar cada vez mais aos projetos de dados.
 
 ---
 
 ## 💡 Objetivo profissional
 
-Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
-- Engenharia de Dados
-- Análise de Dados
-- Machine Learning & IA
-- Visualização e Storytelling com Dados
+Meu objetivo é desenvolver uma carreira na área de **Dados**, aprofundando meus conhecimentos em:
 
----
+* 🧬 **Ciência de Dados**
+* 🏗️ **Engenharia de Dados**
+* 🤖 **Machine Learning & Inteligência Artificial**
+* 📊 **Data Analytics & Business Intelligence**
+* 📈 **Visualização e Storytelling com Dados**
+* ☁️ **Cloud e plataformas de dados**
 
-## 🛠️ Stack Principal
-
-- **Linguagem Base:** Python
-- **Banco de Dados:** MySQL, PostgreSQL, SQLite, MongoDB
-- **Ferramentas de Dados e BI:** pandas, NumPy, Seaborn, Power BI, Excel Avançado (VBA, Power Pivot, DAX) e google sheets
-- **DevOps e Cloud:** AWS (S3, Deploy), Git & GitHub
-- **Integrações com LLMs:** OpenAI (ChatGPT), Gemini
-- **Testes:** Pytest, TDD, JUnit
+Busco construir soluções que combinem **dados, tecnologia e conhecimento de negócio** para resolver problemas reais e gerar valor.
 
 ---
 
 ## 📚 Áreas que venho me aprofundando
 
 ### 🧬 Ciência de Dados & Python
-- Manipulação e análise de dados com **pandas**, **NumPy** e **matplotlib**
-- Dashboards com **Streamlit**
-- Testes automatizados com **Pytest**
-- Automação com **Excel Avançado** (VBA)
-- Integrações com **modelos de linguagem (LLMs)**
 
-### 📊 Visualização de Dados e BI
-- Dashboards interativos no **Power BI**
-- Criação de relatórios com storytelling orientado a dados
-- Automação de relatórios em Excel com VBA e Power Query
-- Automação com Agents de A.I, Power Automate, automation anywhere
-- SQL criar, importar tabelas, consultas e comandos, técnicas como filtragem, agrupamento, funções de agregação, combinações de múltiplas consultas, união de dados de diferentes tabelas e outros
+* Manipulação, limpeza e análise de dados com **pandas** e **NumPy**
+* Análise exploratória de dados (**EDA**)
+* Visualização de dados com **Matplotlib** e **Seaborn**
+* Desenvolvimento de aplicações e dashboards com **Streamlit**
+* Fundamentos de **Machine Learning** com Scikit-learn
+* Utilização de **Jupyter Notebook** para exploração e experimentação
+* Integração de aplicações Python com **modelos de linguagem (LLMs)**
+* Automação de processos utilizando Python
+
+### 🏗️ Engenharia de Dados
+
+* **SQL** para consulta, transformação e análise de dados
+* Modelagem e organização de dados
+* Integração e combinação de dados provenientes de diferentes fontes
+* Processamento e transformação de grandes volumes de dados
+* Estudos em **Apache Spark**, **Apache Airflow** e **DuckDB**
+* Armazenamento e processamento de dados em diferentes formatos
+* Integração de dados com serviços de **Cloud**
+
+### 📊 Data Analytics & Business Intelligence
+
+* Desenvolvimento de dashboards interativos com **Power BI**
+* Criação de indicadores e métricas para acompanhamento de processos
+* **DAX**, Power Query e modelagem de dados
+* Storytelling orientado a dados
+* Automação de relatórios e processos com **Excel, VBA e Power Query**
+* Análise e interpretação de dados para apoio à tomada de decisão
+* Automação de processos utilizando **Power Automate** e **Automation Anywhere**
+
+### 🤖 Inteligência Artificial
+
+* Integração de aplicações com **LLMs**
+* APIs de modelos de Inteligência Artificial
+* Automação utilizando IA
+* Experimentação com **Agentes de IA**
+* Estudos em Machine Learning e aplicações de IA para dados
+
 ---
-## 🌟 Projetos em destaque
+
+## 🚀 Portfólio em desenvolvimento
 
 Atualmente estou direcionando meu portfólio para **Ciência de Dados, Engenharia de Dados, Machine Learning e Analytics**.
 
-Entre meus projetos e estudos, venho trabalhando com:
+Meus projetos e estudos exploram temas como:
 
 * 🐍 **Python para Ciência de Dados**
 * 📊 **Análise e visualização de dados**
@@ -65,12 +90,13 @@ Entre meus projetos e estudos, venho trabalhando com:
 * 🤖 **Machine Learning e Inteligência Artificial**
 * 📈 **Power BI e Data Analytics**
 * ☁️ **Cloud e integração de dados**
+* ⚙️ **Automação e desenvolvimento de soluções orientadas a dados**
 
-> 🚧 Meu portfólio está em constante evolução. Novos projetos de Ciência de Dados e Engenharia de Dados serão publicados aqui em breve.
-
+> 🚧 Meu portfólio está em constante evolução. Novos projetos de Ciência de Dados, Engenharia de Dados e Machine Learning serão publicados aqui ao longo da minha jornada.
 
 ---
-## ⚙️ Tecnologias que utilizo
+
+## ⚙️ Tecnologias
 
 ### 🐍 Ciência de Dados & Machine Learning
 
@@ -97,6 +123,15 @@ Entre meus projetos e estudos, venho trabalhando com:
   <img align="center" alt="Power BI" height="30" src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg">
 </div>
 
+### 🗄️ Bancos de Dados
+
+<div style="display: inline_block">
+  <img align="center" alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SQLite" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+</div>
+
 ### ☁️ Cloud & Versionamento
 
 <div style="display: inline_block">
@@ -104,6 +139,22 @@ Entre meus projetos e estudos, venho trabalhando com:
   <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
+---
+
+## 💻 Engenharia de Software
+
+Além da área de Dados, possuo conhecimentos em **Engenharia de Software e desenvolvimento de aplicações**, incluindo:
+
+* 🐍 Python e desenvolvimento de APIs
+* ☕ Java e Spring Boot
+* 🌐 Desenvolvimento Web
+* 🔌 APIs REST
+* 🧪 Testes automatizados com **Pytest e JUnit**
+* 🗃️ Bancos de dados relacionais e NoSQL
+* 🔄 Git e GitHub
+* ☁️ Integração com serviços de Cloud
+
+Esses conhecimentos complementam minha formação em Dados e me permitem compreender todo o ciclo de desenvolvimento de uma solução, desde a **origem e processamento dos dados até a aplicação final**.
 
 ---
 
@@ -114,30 +165,30 @@ Além da tecnologia e da Ciência de Dados, também tenho interesse por:
 * 🌌 **Astronomia e Biologia** — curiosidade constante sobre o universo e a vida.
 * 🎮 **Games** — meu principal hobby nos momentos de lazer.
 * 🏍️ **Viagens de moto** — gosto de conhecer novos lugares e explorar diferentes paisagens.
-* 🚀 **Tecnologia e inovação** — sempre buscando aprender sobre novas ferramentas, ideias e possibilidades.
-
+* 📚 **Aprendizado contínuo** — gosto de estudar diferentes áreas e conectar conhecimentos de tecnologia, ciência e negócios.
 
 ---
 
 ## 📲 Conecte-se comigo
 
 <div>
+  <a href="https://www.linkedin.com/in/roniwellington" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:roniwellington@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="https://www.youtube.com/@roni23wellington/playlists" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://www.instagram.com/roniwellington/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:roniwellington@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/roniwellington" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 </div>
 
 ---
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil! Explore meus projetos, acompanhe minha evolução e sinta-se à vontade para contribuir ou trocar ideias!
+  🚀 <strong>Este perfil acompanha minha evolução em Ciência de Dados, Engenharia de Dados, Inteligência Artificial e Analytics.</strong><br>
+  Sinta-se à vontade para explorar os projetos, acompanhar minha evolução e trocar ideias.
 </p>
