@@ -52,15 +52,22 @@ Meu foco principal é a **Ciência de Dados** e áreas relacionadas, como:
 - Automação com Agents de A.I, Power Automate, automation anywhere
 - SQL criar, importar tabelas, consultas e comandos, técnicas como filtragem, agrupamento, funções de agregação, combinações de múltiplas consultas, união de dados de diferentes tabelas e outros
 ---
+## 🌟 Projetos em destaque
 
-## 🌟 Repositórios em destaque
+Atualmente estou direcionando meu portfólio para **Ciência de Dados, Engenharia de Dados, Machine Learning e Analytics**.
 
-- [`api-rest-java`](https://github.com/RoniWellinton/api-rest-java): API com Java Spring Boot, autenticação e testes.
-- [`projeto-space`](https://github.com/RoniWellinton/projeto-space): App com Django, autenticação e upload para AWS S3.
-- [`python_gemini`](https://github.com/RoniWellinton/python_gemini): Automação com IA via API do Gemini.
-- [`java-gpt`](https://github.com/RoniWellinton/java-gpt): Comunicação entre Java e a API da OpenAI.
-- [`python-testes-unitarios`](https://github.com/RoniWellinton/python-testes-unitarios): Prática com Pytest e TDD.
-- [`estudo-dataScience`](https://github.com/RoniWellinton/estudo-dataScience): Repositório que registra minha evolução em Ciência de Dados com Python.
+Entre meus projetos e estudos, venho trabalhando com:
+
+* 🐍 **Python para Ciência de Dados**
+* 📊 **Análise e visualização de dados**
+* 🗄️ **SQL e modelagem de dados**
+* 🏗️ **Engenharia e processamento de dados**
+* 🤖 **Machine Learning e Inteligência Artificial**
+* 📈 **Power BI e Data Analytics**
+* ☁️ **Cloud e integração de dados**
+
+> 🚧 Meu portfólio está em constante evolução. Novos projetos de Ciência de Dados e Engenharia de Dados serão publicados aqui em breve.
+
 
 ---
 ## ⚙️ Tecnologias que utilizo
