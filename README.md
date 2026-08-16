@@ -2,7 +2,7 @@
 
 <p align="center">
   📊 Analista de dados na Vale | Futuro Cientista de Dados | 💻Com entendimento em Back-end <br>
-  🚀 Explorando o universo dos dados e da tecnologia com Python, R, SQL, Power BI, Java e mais!
+  🚀 Explorando o universo dos dados e da tecnologia com Python, SQL, Power BI, Java e mais!
 </p>
 
 ---
