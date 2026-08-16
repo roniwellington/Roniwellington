@@ -146,7 +146,6 @@ Meus projetos e estudos exploram temas como:
 Além da área de Dados, possuo conhecimentos em **Engenharia de Software e desenvolvimento de aplicações**, incluindo:
 
 * 🐍 Python e desenvolvimento de APIs
-* ☕ Java e Spring Boot
 * 🌐 Desenvolvimento Web
 * 🔌 APIs REST
 * 🧪 Testes automatizados com **Pytest e JUnit**
